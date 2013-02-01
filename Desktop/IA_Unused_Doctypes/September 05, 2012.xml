@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rule-making xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="\\dscs.com\Linx4Wiki\FullDoc\State_Regs\schema\staterulemaking.xsd">
+	<!---->
+	<document doc-id="">
+		<metadata>
+			<state-abbr>IA</state-abbr>
+			<pub-info>
+				<issue-no>5</issue-no>
+				<volume>XXXV</volume>
+				<date-time type="published" date="2012-09-05">September 5, 2012</date-time>
+				<page-range-start>375</page-range-start>
+				<page-range-end>472</page-range-end>
+			</pub-info>
+			<state-doc-no/>
+			<action>
+				<action-item type="notice">Advance Notice of Proposed Rule Making</action-item>
+			</action>
+			<agency-group>
+				<agency agencyId="">LABOR SERVICES DIVISION</agency>
+			</agency-group>
+			<affected-state-code-cite>
+			<ia-iac-ref chapter="A17" agency="875" rule="A17.3"/>
+			</affected-state-code-cite>
+			<document-title>Saftey Code for Existing Elevators and Escalators</document-title>
+		</metadata>
+		<notice-text>
+			<html>
+				<body>
+</body>
+			</html>
+		</notice-text>
+	</document>
+</rule-making>
+

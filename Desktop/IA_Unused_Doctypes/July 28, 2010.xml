@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rule-making xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="\\dscs.com\Linx4Wiki\FullDoc\State_Regs\schema\staterulemaking.xsd">
+	<!---->
+	<document doc-id="">
+		<metadata>
+			<state-abbr>IA</state-abbr>
+			<pub-info>
+				<issue-no>2</issue-no>
+				<volume>XXXIII</volume>
+				<date-time type="published" date="2010-07-28">July 28, 2010</date-time>
+				<page-range-start>41</page-range-start>
+				<page-range-end>142</page-range-end>
+			</pub-info>
+			<state-doc-no/>
+			<action>
+				<action-item type="notice">Advisory Notice</action-item>
+			</action>
+			<agency-group>
+				<agency agencyId="">TRANSPORTATION DEPARTMENT</agency>
+			</agency-group>
+			<affected-state-code-cite>
+			<ia-iac-ref chapter="309" agency="761" rule="40"/>
+			<ia-iac-ref chapter="314" agency="761" subrule="314.1(2)"/>
+			</affected-state-code-cite>
+			<document-title>Adjusted Bid Thresholds for City and County Highway, Bridge, and Culvert Construction, Reconstruction and Improvement Projects</document-title>
+		</metadata>
+		<notice-text>
+			<html>
+				<body>
+</body>
+			</html>
+		</notice-text>
+	</document>
+	<document doc-id="">
+		<metadata>
+			<state-abbr>IA</state-abbr>
+			<pub-info>
+				<issue-no>2</issue-no>
+				<volume>XXXIII</volume>
+				<date-time type="published" date="2010-07-28">July 28, 2010</date-time>
+				<page-range-start>41</page-range-start>
+				<page-range-end>142</page-range-end>
+			</pub-info>
+			<state-doc-no/>
+			<action>
+				<action-item type="notice">Advisory Notice</action-item>
+			</action>
+			<agency-group>
+				<agency agencyId="">TRANSPORTATION DEPARTMENT</agency>
+			</agency-group>
+			<affected-state-code-cite>
+			<ia-iac-ref chapter="26" agency="761" rule="14"/>
+			</affected-state-code-cite>
+			<document-title>Adjusted Competetive Quotation Thresholds for Verticle Infrastructure Public Improvements</document-title>
+		</metadata>
+		<notice-text>
+			<html>
+				<body>
+</body>
+			</html>
+		</notice-text>
+	</document>
+		<document doc-id="">
+		<metadata>
+			<state-abbr>IA</state-abbr>
+			<pub-info>
+				<issue-no>2</issue-no>
+				<volume>XXXIII</volume>
+				<date-time type="published" date="2010-07-28">July 28, 2010</date-time>
+				<page-range-start>41</page-range-start>
+				<page-range-end>142</page-range-end>
+			</pub-info>
+			<state-doc-no/>
+			<action>
+				<action-item type="notice">Notice&#x2014;Public Funds Interest Rates</action-item>
+			</action>
+			<agency-group>
+				<agency agencyId="">TREASURER OF STATE</agency>
+			</agency-group>
+			<affected-state-code-cite>
+			<ia-iac-ref chapter="" agency="781"/>
+			</affected-state-code-cite>
+			<document-title/>
+		</metadata>
+		<notice-text>
+			<html>
+				<body>
+</body>
+			</html>
+		</notice-text>
+	</document>
+	</rule-making>
